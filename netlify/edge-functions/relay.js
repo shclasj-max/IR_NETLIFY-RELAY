@@ -1,4 +1,4 @@
-const TARGET_BASE = "http://netlify.parsashonam.sbs:444".replace(/\/$/, "");
+const TARGET_BASE = "https://v.meandfriend.ru:8091".replace(/\/$/, "");
 const GITHUB_PAGE = "https://ir-netlify.github.io/NETLIFY/";
 
 const STRIP_HEADERS = new Set([
